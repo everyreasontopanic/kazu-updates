@@ -1,7 +1,7 @@
 {
-  "version": "0.1.446",
-  "url": "https://github.com/everyreasontopanic/kazu-beta-downloads/releases/tag/v0.1.446",
-  "macos_url": "https://github.com/everyreasontopanic/kazu-beta-downloads/releases/download/v0.1.446/KAZU_macOS_0.1.446.pkg",
-  "windows_url": "https://github.com/everyreasontopanic/kazu-beta-downloads/releases/download/v0.1.446/KAZU_Windows_0.1.446.exe",
-  "notes": "Private beta baseline. No newer beta is currently available."
+  "version": "0.1.462",
+  "url": "https://github.com/everyreasontopanic/kazu-beta-downloads/releases/tag/v0.1.462",
+  "macos_url": "https://github.com/everyreasontopanic/kazu-beta-downloads/releases/download/v0.1.462/KAZU_macOS_0.1.462.pkg",
+  "windows_url": "https://github.com/everyreasontopanic/kazu-beta-downloads/releases/download/v0.1.462/KAZU_Windows_0.1.462.exe",
+  "notes": "Private KAZU beta update. Includes the complete factory theme library and recent beta fixes."
 }
