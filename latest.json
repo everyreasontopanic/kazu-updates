@@ -1,8 +1,8 @@
 {
-  "version": "0.1.501",
+  "version": "0.1.513",
   "url": "https://kazu-beta-downloads.kazu-beta-downloads.workers.dev/",
   "macos_url": "https://kazu-beta-downloads.kazu-beta-downloads.workers.dev/?platform=macos",
   "windows_url": "https://kazu-beta-downloads.kazu-beta-downloads.workers.dev/?platform=windows",
   "linux_url": "https://kazu-beta-downloads.kazu-beta-downloads.workers.dev/?platform=linux",
-  "notes": "Fixes a crash with Spectral Delay at 4K SIZE, including preset randomization and PLAY/DESIGN switching. Adds independent Stretch pitch, Tape width, Vocoder resonance, 512-point spectral SIZE, sequencer clear/fill, and new presets. Includes audio, AU, FL Studio, and preset/UI fixes since 462. Linux x86_64 VST3 now includes HTTPS support for licensing and updates."
+  "notes": "Adds MOTIF genre selection, scale lock across presets, a master output limiter, and revised factory preset levels. Fixes preset latency during playback, host-synced modulation phase, master automation display updates, and AUX controls with dual assignments. Includes universal macOS AU/VST3, Windows x64 VST3, Linux x86_64 VST3, and a full changelog since 501 on the beta portal."
 }
