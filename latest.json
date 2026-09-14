@@ -1,8 +1,8 @@
 {
-  "version": "0.1.513",
+  "version": "0.1.548",
   "url": "https://kazu-beta-downloads.kazu-beta-downloads.workers.dev/",
   "macos_url": "https://kazu-beta-downloads.kazu-beta-downloads.workers.dev/?platform=macos",
   "windows_url": "https://kazu-beta-downloads.kazu-beta-downloads.workers.dev/?platform=windows",
   "linux_url": "https://kazu-beta-downloads.kazu-beta-downloads.workers.dev/?platform=linux",
-  "notes": "Adds MOTIF genre selection, scale lock across presets, a master output limiter, and revised factory preset levels. Fixes preset latency during playback, host-synced modulation phase, master automation display updates, and AUX controls with dual assignments. Includes universal macOS AU/VST3, Windows x64 VST3, Linux x86_64 VST3, and a full changelog since 501 on the beta portal."
+  "notes": "Adds modulation-source highlighting on parameter hover, effect descriptions in the picker, vocoder sidechain input, window-size and animation controls, manual and preset-folder links, and a dedicated Formant Shift icon. Improves Prism resonance safety, graph editing, picker ordering, and Animate slot placement. The Windows installer now detects hosts using the VST3 before replacement."
 }
