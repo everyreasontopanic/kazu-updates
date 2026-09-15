@@ -1,8 +1,8 @@
 {
-  "version": "0.1.548",
+  "version": "0.1.551",
   "url": "https://kazu-beta-downloads.kazu-beta-downloads.workers.dev/",
   "macos_url": "https://kazu-beta-downloads.kazu-beta-downloads.workers.dev/?platform=macos",
   "windows_url": "https://kazu-beta-downloads.kazu-beta-downloads.workers.dev/?platform=windows",
   "linux_url": "https://kazu-beta-downloads.kazu-beta-downloads.workers.dev/?platform=linux",
-  "notes": "Adds modulation-source highlighting on parameter hover, effect descriptions in the picker, vocoder sidechain input, window-size and animation controls, manual and preset-folder links, and a dedicated Formant Shift icon. Improves Prism resonance safety, graph editing, picker ordering, and Animate slot placement. The Windows installer now detects hosts using the VST3 before replacement."
+  "notes": "Improves license entry, license management, and update-screen rendering with smaller redraws, cached effects, and elapsed-time animation. Preserves terminal glitch transitions and typing at a 30 Hz update cadence. Restores popup, DESIGN/PLAY, and game animations in Windows FL Studio by removing its automatic reduced-animation override. Includes universal macOS AU/VST3, Windows x64 VST3, and Linux x86_64 VST3 packages."
 }
