@@ -1,8 +1,8 @@
 {
-  "version": "0.1.576",
+  "version": "0.1.577",
   "url": "https://kazu-beta-downloads.kazu-beta-downloads.workers.dev/",
   "macos_url": "https://kazu-beta-downloads.kazu-beta-downloads.workers.dev/?platform=macos",
   "windows_url": "https://kazu-beta-downloads.kazu-beta-downloads.workers.dev/?platform=windows",
   "linux_url": "https://kazu-beta-downloads.kazu-beta-downloads.workers.dev/?platform=linux",
-  "notes": "Fixes modulation source insertion order and keeps the selected source in place while assigning destinations. Fixes ANIMATE resetting modulation scrolling, resets preset list scroll positions, reduces first-use preset loading delay, and fixes update changelog overflow and license-message wrapping. Includes universal macOS AU/VST3, Windows x64 VST3, and Linux x86_64 VST3 packages."
+  "notes": "Fixes the GRAPH start label and modulation-source header icon alignment. Includes the previous modulation scrolling, preset loading, and terminal text fixes. Universal macOS AU/VST3, Windows x64 VST3, and Linux x86_64 VST3 packages."
 }
