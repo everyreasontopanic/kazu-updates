@@ -1,20 +1,25 @@
-# KAZU update metadata
+# KAZU updates and downloads
 
-This public repository contains only the small metadata manifest required by
-the KAZU update checker. It contains no plugin source, licenses, credentials,
-or installer binaries.
+[Download the latest KAZU release](https://github.com/everyreasontopanic/kazu-updates/releases/latest).
 
-Beta installers are stored separately in the private
-`everyreasontopanic/kazu-beta-downloads` repository. Its release URLs require
-an explicitly authorized GitHub account signed in through the browser.
+Release packages are publicly downloadable without a GitHub account:
 
-## Safe release order
+- macOS: signed and notarized universal AU/VST3 installer.
+- Windows: x64 VST3 installer and a portable VST3 ZIP with installation instructions.
+- Linux: x86_64 VST3 archive with installation instructions.
 
-1. Build and verify the new macOS and Windows installers.
-2. Upload installers and checksums to the private beta-download release.
-3. Confirm an invited tester can download both installers.
-4. Change `latest.json` to the new version as the final publication step.
+Each release includes `SHA256SUMS.txt` for package verification. Choose the package
+for your operating system under the release's Assets list.
 
-Never place access tokens, passwords, signed temporary URLs, or other secrets
-in this repository. Everything here is intentionally public.
+Installed plugins read `latest.json` at its existing public URL. The manifest
+links to the public GitHub release page and direct platform downloads. Automatic
+checks retain the existing 24-hour cache; **Check for Updates** refreshes immediately.
 
+## Release order
+
+1. Build and verify every platform package, including macOS signing and notarization.
+2. Upload the packages and checksums to a GitHub release.
+3. Verify all downloads without authentication.
+4. Update `latest.json` after download verification passes.
+
+Keep credentials, license data, and access tokens out of this public repository.
