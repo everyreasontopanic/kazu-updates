@@ -1,8 +1,8 @@
 {
-  "version": "0.1.577",
-  "url": "https://kazu-beta-downloads.kazu-beta-downloads.workers.dev/",
-  "macos_url": "https://kazu-beta-downloads.kazu-beta-downloads.workers.dev/?platform=macos",
-  "windows_url": "https://kazu-beta-downloads.kazu-beta-downloads.workers.dev/?platform=windows",
-  "linux_url": "https://kazu-beta-downloads.kazu-beta-downloads.workers.dev/?platform=linux",
-  "notes": "Fixes the GRAPH start label and modulation-source header icon alignment. Includes the previous modulation scrolling, preset loading, and terminal text fixes. Universal macOS AU/VST3, Windows x64 VST3, and Linux x86_64 VST3 packages."
+  "version": "0.1.578",
+  "url": "https://github.com/everyreasontopanic/kazu-updates/releases/tag/v0.1.578",
+  "macos_url": "https://github.com/everyreasontopanic/kazu-updates/releases/download/v0.1.578/KAZU_macOS_0.1.578.pkg",
+  "windows_url": "https://github.com/everyreasontopanic/kazu-updates/releases/download/v0.1.578/KAZU_Windows_0.1.578.exe",
+  "linux_url": "https://github.com/everyreasontopanic/kazu-updates/releases/download/v0.1.578/KAZU_Linux_x86_64_0.1.578.tar.gz",
+  "notes": "Fixes a Windows plugin-scanning timeout that could prevent KAZU from loading in Nuendo or lead to blocklisting. SPECTER tables are now built on first use, which may briefly delay its first insertion or preset load. Includes universal macOS AU/VST3, Windows x64 VST3 installer and ZIP, and Linux x86_64 VST3."
 }
