@@ -1,8 +1,8 @@
 {
-  "version": "0.1.587",
-  "url": "https://github.com/everyreasontopanic/kazu-updates/releases/tag/v0.1.587",
-  "macos_url": "https://github.com/everyreasontopanic/kazu-updates/releases/download/v0.1.587/KAZU_macOS_0.1.587.pkg",
-  "windows_url": "https://github.com/everyreasontopanic/kazu-updates/releases/download/v0.1.587/KAZU_Windows_0.1.587.exe",
-  "linux_url": "https://github.com/everyreasontopanic/kazu-updates/releases/download/v0.1.587/KAZU_Linux_x86_64_0.1.587.tar.gz",
-  "notes": "Adds Shift-drag for 10x finer FX parameter and output gain adjustments, one-step undo/redo for Randomise and Animate actions, and fixes modulation hover scrolling when animations are off. Updated manual with changelog."
+  "version": "0.1.620",
+  "url": "https://github.com/everyreasontopanic/kazu-updates/releases/tag/v0.1.620",
+  "macos_url": "https://github.com/everyreasontopanic/kazu-updates/releases/download/v0.1.620/KAZU_macOS_0.1.620.pkg",
+  "windows_url": "https://github.com/everyreasontopanic/kazu-updates/releases/download/v0.1.620/KAZU_Windows_0.1.620.exe",
+  "linux_url": "https://github.com/everyreasontopanic/kazu-updates/releases/download/v0.1.620/KAZU_Linux_x86_64_0.1.620.tar.gz",
+  "notes": "Adds Cadence, Aether, Modal, Liquify, Vesper, Magnet and Undertow effects. Updates effect descriptions and icons, adds Breakout, and retires SPLICE, GRAFT and RUPTURE while preserving saved effect compatibility."
 }
