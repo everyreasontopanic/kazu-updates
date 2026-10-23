@@ -1,8 +1,8 @@
 {
-  "version": "0.1.620",
-  "url": "https://github.com/everyreasontopanic/kazu-updates/releases/tag/v0.1.620",
-  "macos_url": "https://github.com/everyreasontopanic/kazu-updates/releases/download/v0.1.620/KAZU_macOS_0.1.620.pkg",
-  "windows_url": "https://github.com/everyreasontopanic/kazu-updates/releases/download/v0.1.620/KAZU_Windows_0.1.620.exe",
-  "linux_url": "https://github.com/everyreasontopanic/kazu-updates/releases/download/v0.1.620/KAZU_Linux_x86_64_0.1.620.tar.gz",
-  "notes": "Adds Cadence, Aether, Modal, Liquify, Vesper, Magnet and Undertow effects. Updates effect descriptions and icons, adds Breakout, and retires SPLICE, GRAFT and RUPTURE while preserving saved effect compatibility."
+  "version": "0.1.700",
+  "url": "https://github.com/everyreasontopanic/kazu-updates/releases/tag/v0.1.700",
+  "macos_url": "https://github.com/everyreasontopanic/kazu-updates/releases/download/v0.1.700/KAZU_macOS_0.1.700.pkg",
+  "windows_url": "https://github.com/everyreasontopanic/kazu-updates/releases/download/v0.1.700/KAZU_Windows_0.1.700.exe",
+  "linux_url": "https://github.com/everyreasontopanic/kazu-updates/releases/download/v0.1.700/KAZU_Linux_x86_64_0.1.700.tar.gz",
+  "notes": "Adds 13 effects: Lossy, Howl, Triad, Warp, Stills, Strum, Loop, Contrast, Strings, Separate, Flyby, Reel and Transient. New models and controls for Bitrot, Circuit Bend, Plasma and Wavefolder, a LATENCY COMP switch, a SCREEN TEXTURE toggle, and a fix for a Windows hang on host exit."
 }
