@@ -4,5 +4,5 @@
   "macos_url": "https://github.com/everyreasontopanic/kazu-updates/releases/download/v0.1.700/KAZU_macOS_0.1.700.pkg",
   "windows_url": "https://github.com/everyreasontopanic/kazu-updates/releases/download/v0.1.700/KAZU_Windows_0.1.700.exe",
   "linux_url": "https://github.com/everyreasontopanic/kazu-updates/releases/download/v0.1.700/KAZU_Linux_x86_64_0.1.700.tar.gz",
-  "notes": "Adds 13 effects: Lossy, Howl, Triad, Warp, Stills, Strum, Loop, Contrast, Strings, Separate, Flyby, Reel and Transient. New models and controls for Bitrot, Circuit Bend, Plasma and Wavefolder, a LATENCY COMP switch, a SCREEN TEXTURE toggle, and a fix for a Windows hang on host exit."
+  "notes": "Adds 13 effects: Lossy, Howl, Triad, Warp, Stills, Strum, Loop, Contrast, Strings, Separate, Flyby, Reel and Transient. New controls on nearly every existing effect, triplet timing for clocked modulation sources, LATENCY COMP and SCREEN TEXTURE menu options, right-click paste for license keys, and a fix for a Windows hang on host exit."
 }
