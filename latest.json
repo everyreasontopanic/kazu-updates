@@ -1,8 +1,8 @@
 {
-  "version": "0.1.700",
-  "url": "https://github.com/everyreasontopanic/kazu-updates/releases/tag/v0.1.700",
-  "macos_url": "https://github.com/everyreasontopanic/kazu-updates/releases/download/v0.1.700/KAZU_macOS_0.1.700.pkg",
-  "windows_url": "https://github.com/everyreasontopanic/kazu-updates/releases/download/v0.1.700/KAZU_Windows_0.1.700.exe",
-  "linux_url": "https://github.com/everyreasontopanic/kazu-updates/releases/download/v0.1.700/KAZU_Linux_x86_64_0.1.700.tar.gz",
-  "notes": "Adds 13 effects: Lossy, Howl, Triad, Warp, Stills, Strum, Loop, Contrast, Strings, Separate, Flyby, Reel and Transient. New controls on nearly every existing effect, triplet timing for clocked modulation sources, LATENCY COMP and SCREEN TEXTURE menu options, right-click paste for license keys, and a fix for a Windows hang on host exit."
+  "version": "0.1.703",
+  "url": "https://github.com/everyreasontopanic/kazu-updates/releases/tag/v0.1.703",
+  "macos_url": "https://github.com/everyreasontopanic/kazu-updates/releases/download/v0.1.703/KAZU_macOS_0.1.703.pkg",
+  "windows_url": "https://github.com/everyreasontopanic/kazu-updates/releases/download/v0.1.703/KAZU_Windows_0.1.703.exe",
+  "linux_url": "https://github.com/everyreasontopanic/kazu-updates/releases/download/v0.1.703/KAZU_Linux_x86_64_0.1.703.tar.gz",
+  "notes": "Adds the 1.7 factory preset folder with 69 new presets. Click-free effect switching, an exact MIX 0 bypass for SQUASH, MANGLE and the master compressor, averaged PARALLEL routing, sample-accurate effect sequencer steps, smoother host stop and seek handling, faster drawing on Windows and Linux, and a licensing fallback when the usual license folder isn't writable."
 }
